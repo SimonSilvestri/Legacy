@@ -1,0 +1,32 @@
+# Unreal Engine
+*.sln
+*.suo
+*.user
+*.userprefs
+*.db
+*.sdf
+*.ipch
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Folders to ignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Build configs
+*.xcodeproj
+*.xcworkspace
+*.idea/
+
+# Ignore crash logs, logs, backup
+*.log
+*.dmp
+*.tmp
+*.bak
+
+# Mac files
+.DS_Store
